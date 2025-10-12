@@ -1,0 +1,15 @@
+title: Monjure Alam
+description: Software engineer — portfolio & technical blog
+theme: minima
+markdown: kramdown
+
+# Author + social (edit)
+author:
+  name: "Monjur Alam"
+  # email: "your.email@example.com"
+social:
+  github: monjur00
+  twitter: twitter_here
+
+# optional: show posts on home
+paginate: 5
